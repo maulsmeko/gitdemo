@@ -10,7 +10,9 @@ public class RestAPITest {
 	{
 		System.out.println("jiraAPI");
 		System.out.println("jiraAPI2");
-		System.out.println("jiraAPI2");
+		System.out.println("jiraAPI3");
+		System.out.println("jiraAPI4");
+		System.out.println("jiraAPI5");
 		
 	}
 	
